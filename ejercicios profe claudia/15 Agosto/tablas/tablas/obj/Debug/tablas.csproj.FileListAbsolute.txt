@@ -1,0 +1,9 @@
+G:\Yaneth\15 Agosto\tablas\tablas\bin\Debug\tablas.exe.config
+G:\Yaneth\15 Agosto\tablas\tablas\bin\Debug\tablas.exe
+G:\Yaneth\15 Agosto\tablas\tablas\bin\Debug\tablas.pdb
+G:\Yaneth\15 Agosto\tablas\tablas\obj\Debug\tablas.csprojResolveAssemblyReference.cache
+G:\Yaneth\15 Agosto\tablas\tablas\obj\Debug\tablas.Form1.resources
+G:\Yaneth\15 Agosto\tablas\tablas\obj\Debug\tablas.Properties.Resources.resources
+G:\Yaneth\15 Agosto\tablas\tablas\obj\Debug\tablas.csproj.GenerateResource.Cache
+G:\Yaneth\15 Agosto\tablas\tablas\obj\Debug\tablas.exe
+G:\Yaneth\15 Agosto\tablas\tablas\obj\Debug\tablas.pdb
